@@ -36,7 +36,6 @@ div{
 	margin-right: 10px;
 	margin-left: 10px;
 	color: #1B4F72;
-    font-family: Helvetica, Arial;
 }
 
 .p1 {
@@ -47,8 +46,6 @@ div{
   margin-right: auto;
   margin-left: auto;
   margin-top: 30px;
-  font-family: Arial;
-  color: white;
 }
 
 /* Simple Responsive Framework. */
